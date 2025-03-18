@@ -13,7 +13,7 @@ This is a simple Java-based Password Generator application with a graphical user
 
 - 🔢 Enter the desired password length.
 - ✅ Select the character types to include:
-         🔠 Uppercase Letters
+      - 🔠 Uppercase Letters
          🔡 Lowercase Letters
          🔢 Numbers
          🔣 Special Symbols
